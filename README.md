@@ -1,4 +1,4 @@
-# fianlproject_MachineLearning_NTHU
+# MachineLearningTermProject
 
 It is a GNN module project for Machinge Learning wtih EGG signal.
 
